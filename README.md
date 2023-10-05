@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArturSm14
 - 👀 I’m interested in program
-- 🌱 I’m currently learning html and Java
+- 🌱 I’m currently learning Html5, css3, JavaScript, Node, React.
 - 💞️ I’m looking to collaborate on in companies
 - 📫 How to reach me antonioartur123456@gmail.com and https://www.linkedin.com/in/antônio-artur-59616023b/
 

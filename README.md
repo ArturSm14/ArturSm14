@@ -1,12 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Artur!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Artur!;" />
 </h1>
 
 - 👀 Desenvolvedor Full-Stack
-- 🌱Tenho habilidades com Html, Css , JavaScript, React, Node...!
+- 🌱Sou apaixonado pelo mundo da tecnologia! Tenho um instinto de curiosidade muito grande e busco sempre aumentar meu conhecimento!
+- 👜Tenho conhecimento em Html, Css, JavaScprit, React e Node
 - 📫 Entre em contato comigo em antonioartur123456@gmail.com ou https://www.linkedin.com/in/antônio-artur-59616023b/
 
-
+ ##
 
 
 <div align="center">

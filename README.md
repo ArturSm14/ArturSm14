@@ -32,7 +32,7 @@
   
 </div>
 
-![snake gif](https://github.com/ArturSm14/ArturSm14/blob/output/github-contribution-grid-snake-dark.gif)
+![snake gif](https://github.com/ArturSm14/ArturSm14/blob/output/github-contribution-grid-snake.svg)
  
 
 <!---

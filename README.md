@@ -17,6 +17,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <h1>Tecnologias e Ferramentas :</h1>
   <img align="center" alt="Artur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Artur-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Artur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,11 +30,11 @@
 
  ##
 
- <div> 
+ <div>
+  <h1>Minhas redes Sociais:</h1>
   <a href= "https://www.instagram.com/artursantos630/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:antonioartur123456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/antônio-artur-59616023b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 ![snake gif](https://github.com/ArturSm14/ArturSm14/blob/output/github-contribution-grid-snake.svg)
